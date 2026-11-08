@@ -1,0 +1,61 @@
+{
+  "name": "NetScan",
+  "path": "d:\\Dev-P\\NetScan",
+  "type": "directory",
+  "children": [
+    {
+      "name": "network_scanner",
+      "type": "folder",
+      "icon": "📁",
+      "children": [
+        {
+          "name": "network_scanner",
+          "type": "folder",
+          "icon": "📁"
+        }
+      ]
+    },
+    {
+      "name": "static",
+      "type": "folder",
+      "icon": "📁"
+    },
+    {
+      "name": "templates",
+      "type": "folder",
+      "icon": "📁"
+    },
+    {
+      "name": "app.py",
+      "type": "file",
+      "icon": "🐍"
+    },
+    {
+      "name": "database.py",
+      "type": "file",
+      "icon": "🐍"
+    },
+    {
+      "name": "network_scanner.db",
+      "type": "file",
+      "icon": "📄"
+    },
+    {
+      "name": "requirements.txt",
+      "type": "file",
+      "icon": "📄"
+    },
+    {
+      "name": "scanner.py",
+      "type": "file",
+      "icon": "🐍"
+    }
+  ],
+  "metadata": {
+    "generated": "2026-11-08T20:13:36.062Z",
+    "generator": "FileTree Pro Extension",
+    "version": "0.2.0",
+    "showIcons": true,
+    "maxDepth": 15
+  }
+}
